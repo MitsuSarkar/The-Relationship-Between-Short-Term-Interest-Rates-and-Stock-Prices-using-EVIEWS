@@ -1,4 +1,4 @@
-# The-Relationship-Between-Short-Term-Interest-Rates-and-Stock-Prices
+# The Relationship Between Short Term Interest Rates and Stock Prices
 
 The relationship between short-term interest rates and stock prices is important to understand. Changes in the interest rate can have a significant impact on stock prices. In this report, I will use an econometric model to examine this relationship.
 
